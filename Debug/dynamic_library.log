@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+C:\Users\azhar damir\Source\Repos\dynamic_library\MathLibrary.cpp(18,1): warning C4273: 'fibonacci_init' : liaison DLL incohérente
+C:\Users\azhar damir\Source\Repos\dynamic_library\MathLibrary.h(22,33): message : voir la définition précédente de 'fibonacci_init'
+C:\Users\azhar damir\Source\Repos\dynamic_library\MathLibrary.cpp(27,1): warning C4273: 'fibonacci_next' : liaison DLL incohérente
+C:\Users\azhar damir\Source\Repos\dynamic_library\MathLibrary.h(28,33): message : voir la définition précédente de 'fibonacci_next'
+C:\Users\azhar damir\Source\Repos\dynamic_library\MathLibrary.cpp(48,1): warning C4273: 'fibonacci_current' : liaison DLL incohérente
+C:\Users\azhar damir\Source\Repos\dynamic_library\MathLibrary.h(31,47): message : voir la définition précédente de 'fibonacci_current'
+C:\Users\azhar damir\Source\Repos\dynamic_library\MathLibrary.cpp(54,1): warning C4273: 'fibonacci_index' : liaison DLL incohérente
+C:\Users\azhar damir\Source\Repos\dynamic_library\MathLibrary.h(34,37): message : voir la définition précédente de 'fibonacci_index'
+  Génération de code en cours...
+     Création de la bibliothèque C:\Users\azhar damir\Source\Repos\dynamic_library\Debug\dynamic_library.lib et de l'objet C:\Users\azhar damir\Source\Repos\dynamic_library\Debug\dynamic_library.exp
+  dynamic_library.vcxproj -> C:\Users\azhar damir\Source\Repos\dynamic_library\Debug\dynamic_library.dll
